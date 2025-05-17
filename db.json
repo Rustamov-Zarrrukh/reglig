@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "ed8b",
+      "name": "",
+      "email": "",
+      "firstname": "",
+      "password": ""
+    },
+    {
+      "id": "53fc",
+      "name": "ZAk",
+      "email": "zadd@gmail.com",
+      "firstname": "zak",
+      "password": "201"
+    },
+    {
+      "id": "83c9",
+      "name": "Zak",
+      "email": "zadd@gmail.com",
+      "firstname": "zak",
+      "password": "201"
+    }
+  ]
+}
